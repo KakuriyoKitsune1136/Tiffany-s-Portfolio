@@ -32,7 +32,7 @@ CC by ISc2: will take this in December
 
 PNPT by TCM Security: TBA
 
-CPTS by Hack tHe Box: TBA
+CPTS by Hack the Box: TBA
 
 <h2> Cybersecurity Projects I am currently working on:</h2>
 
