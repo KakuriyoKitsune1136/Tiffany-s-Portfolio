@@ -40,23 +40,23 @@ CPTS by Hack the Box: TBA
 
 This environment is currently under development. At this stage, I have configured the Domain Controller and user workstations. Due to the resource demands on my current PC, progress is being completed in phases.
 
-- [Game of Active Directory Set-Up] (https://github.com/KakuriyoKitsune1136/KakuriyoKitsune1136/blob/main/game-of-active-directory-lab-setup.md)
+- [Game of Active Directory Set-Up](https://github.com/KakuriyoKitsune1136/KakuriyoKitsune1136/blob/main/game-of-active-directory-lab-setup.md)
 
 - <b> Cowrie Honeypot Pentest </b> 
 
 A colleauge and I are setting up this enviornment and testing a Honeypot he set up, this test will be done in 2 week phases.
 
-[Cowrie Honeypot Pentest] (https://github.com/KakuriyoKitsune1136/KakuriyoKitsune1136/blob/main/cowrie-honeypot-pentest.md)
+[Cowrie Honeypot Pentest](https://github.com/KakuriyoKitsune1136/KakuriyoKitsune1136/blob/main/cowrie-honeypot-pentest.md)
 
 - <b> Hacking Lab writeups/Notes </b> 
 
 These are my up to date hacking notes, as I do walkthroughs or labs on verious platforms, i.e. HackSmarter, TryHackMe, HacktheBox, etc.
 
-[TIffany's Hacking Notes] (https://github.com/KakuriyoKitsune1136/KakuriyoKitsune1136)
+[TIffany's Hacking Notes](https://github.com/KakuriyoKitsune1136/KakuriyoKitsune1136)
 
 <h2> Connect with me or Contact me:</h2>
 <b>Contact</b>
-[linkedin]: https://linkedin.com/in/tifastarkey 
+https://linkedin.com/in/tifastarkey 
 
 <!--
 **KakuriyoKitsune1136/KakuriyoKitsune1136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
