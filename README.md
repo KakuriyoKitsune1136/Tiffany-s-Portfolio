@@ -1,6 +1,8 @@
 <h1>Hi, My Name is TIffany!
 <h2> About Me </h2>
-I am a Penetration tester of about 5 years, with hands on technical expertise, I also have a master's degree from the University of Maryland Global Campus, I am always learning new things,for instance more recently I have been slowly trying to learn web application testing, and hopefully at somepoint: Cloud testing, so I can add it to my repitorie.
+I am a penetration tester with about five years of hands-on technical expertise. I also have a master’s degree from the University of Maryland Global Campus. I am always learning new things; for instance, more recently, I have been slowly trying to learn web application testing and, hopefully at some point, cloud testing, so I can add it to my repertoire.
+
+So here is what I can do:
 
 so here is what I Can do:
 - Network Penetration Testing
@@ -30,25 +32,25 @@ CC by ISc2: will take this in December
 
 PNPT by TCM Security: TBA
 
-CPTS by Hack THe Box: TBA
+CPTS by Hack tHe Box: TBA
 
 <h2> Cybersecurity Projects I am currently working on:</h2>
 
 - <b> Active Directory Lab build </b>
 
-This is currently being built, so far I just have the Domain Controller and the User's workstations set up, as it is fairly taxing on my current PC build, but I figured, some progress is better than none at all.
+This environment is currently under development. At this stage, I have configured the Domain Controller and user workstations. Due to the resource demands on my current PC, progress is being completed in phases.
 
 - [Game of Active Directory Set-Up] (https://github.com/KakuriyoKitsune1136/KakuriyoKitsune1136/blob/main/game-of-active-directory-lab-setup.md)
 
 - <b> Cowrie Honeypot Pentest </b> 
 
-A friend of mine and I are setting up and testing a Honeypot he set up, so it should be fun to test!
+A colleauge and I are setting up this enviornment and testing a Honeypot he set up, this test will be done in 2 week phases.
 
 [Cowrie Honeypot Pentest] (https://github.com/KakuriyoKitsune1136/KakuriyoKitsune1136/blob/main/cowrie-honeypot-pentest.md)
 
 - <b> Hacking Lab writeups/Notes </b> 
 
-These are my hacking notes, as I do walkthroughs or labs on verious platforms, i.e. HackSmarter,TryHackMe,HacktheBox, etc.
+These are my up to date hacking notes, as I do walkthroughs or labs on verious platforms, i.e. HackSmarter, TryHackMe, HacktheBox, etc.
 
 [TIffany's Hacking Notes] (https://github.com/KakuriyoKitsune1136/KakuriyoKitsune1136)
 
