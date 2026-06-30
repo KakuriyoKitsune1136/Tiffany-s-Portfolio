@@ -8,7 +8,7 @@ so here is what I Can do:
 - Network Penetration Testing
 - Active Directory Pentesting
 - External and Internal Pentesting
-- Learning about: Cloud and Web App Pentesting
+- Learning about: Cloud and Web App Pentesting and Artificial Intelligence/LLM's.
   
 More About me:
 - Pronouns: She/Her/Hers
