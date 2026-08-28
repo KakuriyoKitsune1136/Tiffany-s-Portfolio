@@ -23,8 +23,6 @@ INE- EJPT(Formerly E-Learn Security)
 
 <h2> Certs currenly working towards </h2>
 
-PT1 by TryHackMe: will take this at the end of July
-
 OSCP by Offensive Security: TBA
 
 CRTO by Zero Point Security: TBA
