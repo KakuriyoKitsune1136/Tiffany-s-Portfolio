@@ -35,7 +35,9 @@ CPTS by Hack the Box: TBA
 
 <h2> Cybersecurity Projects I am currently working on:</h2>
 
-<b> Working on my first hacking tool </b>
+
+<b> Working on my first hacking tool! </b>
+
 I am going to be working on my first tool, so it will be here eventually.
 
 <b> Active Directory Lab build </b>
